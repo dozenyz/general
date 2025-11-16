@@ -1,3 +1,4 @@
+##Binary Search##
 def binSearch(A, x):
     begin = 0
     end = len(A)-1
